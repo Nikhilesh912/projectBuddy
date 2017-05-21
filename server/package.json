@@ -1,0 +1,12 @@
+{
+  "name": "my-super-amazing-app",
+  "version": "1.0.0",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies" :{
+    "query-string": "4.3.1"
+  }
+}
